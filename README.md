@@ -2,6 +2,9 @@
 
 This is the repository for the Community Edition Release of the community of makers from Neva Aerospace Ltd (UK) for the turbo-drone Wohler-b series for transporation.
 
+![DSC01843](https://github.com/Community-Open-Thrust/Wohler-b_Community/assets/24481026/05636d74-1c8e-473f-889d-8a53877504c4)
+
+
 Wohler-b series can be used with Athena-A-2ET (2stages) or Athena-A-1ET (1 stage) electric turbines (Electric Ducted Fans (EDF))
 
 
