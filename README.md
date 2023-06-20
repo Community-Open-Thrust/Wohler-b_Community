@@ -21,3 +21,13 @@ The main of repository will be locked to the initial commit to avoid losing info
 Please do create a new branch for a new version or create your own fork.
 Please check the branch for the last version of the project.
 
+# Serialisation & History
+It started in 2016-2017 with the Eole X4, followed by the Wohler-b-III-x4 (Mark 3) and then the Wohler-b-Mark-V-X8 (Wohler b mark 5).
+
+The Eole-X4 was used for demonstration in Oct. 2017 with Thales for the French Army (STAT) at Satory Camp (France) and the Eole-X4 was then presented at the Paris Air Show 2017 at the PAS-Start-up-Aero-LAB. It ended its life at the Aero-Museum of Angers Airport. 
+
+The Wohler-b-III-x4 (mark3) had a short life from 2017 to 2018 and the fate of the last prototype is unkown.
+
+The Wohler-b-Mark-V-X12 (Mark5) was built between 2018 and 2019 and used for many demonstration, among which for the French Army (STAT) were BVLOS was demonstrated using 5G and FlyTbase and UAVCast for delivery of 3Kg to 5kg package. The Wohler-b-Mark-V-X12 was presented to the Paris Air Show 2019 and the late Olivier Dassault, MP & Pilot, came to congratulates the team for the technological advance. The prototype has been dismantled at the closure of the Angers Airport operations in France.
+
+There has been some sketches and early draft for the Wohler-D and the Wohler-b-Mark-VI-x12 but they have never been built.
