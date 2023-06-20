@@ -14,3 +14,10 @@ https://ohwr.org/cern_ohl_s_v2.pdf
 
 Any further fork and/or modification must bear the following Notice as per chapter 1.10 of Definition of the OHL-s :
 "Acknoledgement of the Original Authors: Neva-Aero and the Human Team Members between 2013 and 2022 : F.M. Robert Vergnes, David Brotherton-Ratcliffe, Aleksey Zaitsevsky, Renaud-Pierre Blanpain, Anthony Gambus, Tal Stokes, Valentin Bertrand, Tomas Valaitis, Louis Fourdan, Elie de Fonclare, Frédéric Pudleitner, Gilles Coïa  "
+
+# About using this repository
+MAIN WILL NOT CHANGE.
+The main of repository will be locked to the initial commit to avoid losing information. 
+Please do create a new branch for a new version or create your own fork.
+Please check the branch for the last version of the project.
+
