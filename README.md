@@ -28,6 +28,6 @@ The Eole-X4 was used for demonstration in Oct. 2017 with Thales for the French A
 
 The Wohler-b-III-x4 (mark3) had a short life from 2017 to 2018 and the fate of the last prototype is unkown.
 
-The Wohler-b-Mark-V-X12 (Mark5) was built between 2018 and 2019 and used for many demonstration, among which for the French Army (STAT) were BVLOS was demonstrated using 5G and FlyTbase and UAVCast for delivery of 3Kg to 5kg package. The Wohler-b-Mark-V-X12 was presented to the Paris Air Show 2019 and the late Olivier Dassault, MP & Pilot, came to congratulates the team for the technological advance. The prototype has been dismantled at the closure of the Angers Airport operations in France.
+The Wohler-b-Mark-V-X12 (Mark5) was built between 2018 and 2019 and used for several demonstrations, among which for the French Army (STAT) were BVLOS was demonstrated using 4G and the FlyTbase cloud and UAVCast for delivery of 3Kg to 5kg package. The Wohler-b-Mark-V-X12 was presented to the Paris Air Show 2019 and the late Olivier Dassault, MP & Pilot, came to congratulates the team for the technological advance. The prototype has been dismantled at the closure of the Angers Airport operations in France.
 
 There has been some sketches and early draft for the Wohler-D and the Wohler-b-Mark-VI-x12 but they have never been built.
