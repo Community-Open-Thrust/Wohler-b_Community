@@ -13,7 +13,7 @@ https://ohwr.org/cern_ohl_s_v2.pdf
 ![image](https://github.com/Community-Open-Thrust/Athena-A-2ET-1.64_Community/assets/24481026/4efc25a4-d6e6-4a6f-b13d-405c61bc8796)
 
 Any further fork and/or modification must bear the following Notice as per chapter 1.10 of Definition of the OHL-s :
-"Acknoledgement of the Original Authors: Neva-Aero and the Human Team Members between 2013 and 2022 : F.M. Robert Vergnes, David Brotherton-Ratcliffe, Aleksey Zaitsevsky, Renaud-Pierre Blanpain, Anthony Gambus, Tal Stokes, Valentin Bertrand, Tomas Valaitis, Louis Fourdan, Elie de Fonclare, Frédéric Pudleitner, Gilles Coïa  "
+"Acknowledgement of the Original Authors: Neva-Aero and the Human Team Members between 2013 and 2022 : F.M. Robert Vergnes, David Brotherton-Ratcliffe, Aleksey Zaitsevsky, Renaud-Pierre Blanpain, Anthony Gambus, Tal Stokes, Valentin Bertrand, Tomas Valaitis, Louis Fourdan, Elie de Fonclare, Frédéric Pudleitner, Gilles Coïa  "
 
 # About using this repository
 MAIN WILL NOT CHANGE.
