@@ -8,7 +8,7 @@ This is the repository for the Community Edition Release of the community of mak
 Wohler-b series can be used with Athena-A-2ET (2stages) or Athena-A-1ET (1 stage) electric turbines (Electric Ducted Fans (EDF))
 
 
-# THE LICENSE IS CERN-OHL-S (Strongly Reciprocal) 
+# THE LICENCE IS CERN-OHL-S (Strongly Reciprocal) 
 https://ohwr.org/cern_ohl_s_v2.pdf
 ![image](https://github.com/Community-Open-Thrust/Athena-A-2ET-1.64_Community/assets/24481026/4efc25a4-d6e6-4a6f-b13d-405c61bc8796)
 
